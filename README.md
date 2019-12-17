@@ -2,8 +2,7 @@
 
 This code makes it possible to close visual loops using Neural Networks. The process is specifically designed to work with underwater images gathered by a bottom looking camera.
 
-* Science : Antoni Burguera (antoni dot burguera at uib dot es)
-            Francisco Bonin-Font
+* Science : Antoni Burguera (antoni dot burguera at uib dot es) and Francisco Bonin-Font
 * Coding  : Antoni Burguera (antoni dot burguera at uib dot es)
 
 If you use this software, please cite the following paper:
