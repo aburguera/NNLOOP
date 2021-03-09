@@ -7,7 +7,7 @@ This code makes it possible to close visual loops using Neural Networks. The pro
 
 If you use this software, please cite the following paper:
 
-Paper reference: to be posted soon. Please contact us.
+A. Burguera and F. Bonin-Font. An Unsupervised Neural Network for Loop Detection in Underwater Visual SLAM. In Journal of Intelligent & Robotic Systems, Springer (2020)
 
 Also, the whole process is carefully described in the paper. Please read the paper to understand how the system works.
 
